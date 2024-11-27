@@ -1,4 +1,4 @@
-package com.example.websocketspring.Handler;
+package com.example.websocketspring.handler;
 
 import org.springframework.web.socket.BinaryMessage;
 import org.springframework.web.socket.CloseStatus;
